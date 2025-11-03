@@ -106,6 +106,18 @@ a:hover {
 .links-div {
     align-items: center
 }
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+    td, tr {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+    thead {
+    color: white;
+    background-color: black;
 
 .page-title {
     color: #718355;
