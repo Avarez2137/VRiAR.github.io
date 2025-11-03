@@ -1,3 +1,18 @@
+h1 {
+    text-align: center;
+    margin: 1cm;
+}
+
+img {
+    margin: 0%;
+    width: 400px;
+    height: 300px;
+    flex-direction: column;
+    margin: 1cm;
+    border: 1px solid;
+
+}
+
 :root {
     --max-width: 1100px
 }
