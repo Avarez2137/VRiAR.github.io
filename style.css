@@ -91,3 +91,15 @@ a:hover {
 .links-div {
     align-items: center
 }
+
+.page-title {
+    color: #718355;
+    text-align: center;
+    margin: 0 1cm
+}
+
+.list1 {
+    border: 1px solid;
+    font-style: bold;
+
+}
