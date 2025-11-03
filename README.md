@@ -1,6 +1,4 @@
-# VR i AR
-
-# 2Test
+# VR i AR - TEST 2
 
 ## TEAM
 
