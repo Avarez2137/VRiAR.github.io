@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<wirtualnaRzeczywistość>
+    <AR id="1">
+        <urządzenie>Telefon</urządzenie>
+        <urządzenie>Gogle</urządzenie>
+        <zastosowanie>Gry</zastosowanie>
+        <zastosowanie>Medycyna</zastosowanie>
+    </AR>
+   <VR id="2">
+        <urządzenie>Telefon</urządzenie>
+        <urządzenie>Gogle</urządzenie>
+        <zastosowanie>Gry</zastosowanie>
+        <zastosowanie>Treningi</zastosowanie>
+    </VR>
+    <MR id="3">
+        <urządzenie>Telefon</urządzenie>
+        <urządzenie>Gogle</urządzenie>
+        <zastosowanie>Przemysł</zastosowanie>
+        <zastosowanie>Edukacja</zastosowanie>
+    </MR>
+</wirtualnaRzeczywistość>

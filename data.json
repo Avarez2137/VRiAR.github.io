@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "VR",
+        "urządzenia": [
+            "gogle",
+            "gry"
+        ],
+        "isPopular": true
+    },
+    {
+        "id": 2,
+        "name": "AR",
+        "urządzenia": [
+            "gogle",
+            "gry",
+            "telefon"
+        ],
+        "isPopular": false
+    },
+    {
+        "id": 3,
+        "name": "MR",
+        "urządzenia": [
+            "gogle",
+            "gry"
+        ],
+        "isPopular": false
+    }
+]
